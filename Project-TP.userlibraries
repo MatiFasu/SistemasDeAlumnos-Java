@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="groovy-4.0.0-beta-1">
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-datetime-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-astbuilder-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-cli-commons-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-cli-picocli-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-ant-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-contracts-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-dateutil-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-console-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-groovydoc-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-jmx-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-ginq-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-jsr223-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-docgenerator-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-json-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-macro-library-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-nio-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-servlet-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-groovysh-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-macro-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-test-junit5-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-sql-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-testng-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-templates-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-test-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-toml-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-swing-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-typecheckers-4.0.0-beta-1.jar" />
+    <archive path="C:/Users/Matias/Desktop/Matias/Programas/TP/Project-TP/lib/groovy-xml-4.0.0-beta-1.jar" />
+  </library>
+</eclipse-userlibraries>
+
